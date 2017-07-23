@@ -9,5 +9,7 @@ public class Test {
 		service.getUserById("111");
 		System.out.println("第二次获取User");
 		service.getUserById("111");
+		System.out.println("第三次获取User");
+		service.getUserById("111");
 	}
 }
